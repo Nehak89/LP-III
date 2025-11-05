@@ -1,13 +1,11 @@
 1.Write a program to calculate Fibonacci numbers and find its step count.
 
-2. Implement job sequencing with deadlines using a greedy method.
+2. Implement job sequencing with deadlines using a greedy method.(Huffman Encoding) 
 
 3. Write a program to solve a fractional Knapsack problem using a greedy method.
 
 4. Write a program to solve a 0-1 Knapsack problem using dynamic programming or branch and
 bound strategy.
 
-5. Write a program to generate binomial coefficients using dynamic programming.
-
-6. Design 8-Queens matrix having first Queen placed. Use backtracking to place remaining
+5. Design 8-Queens matrix having first Queen placed. Use backtracking to place remaining
 Queens to generate the final 8-queen’s matrix.
